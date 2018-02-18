@@ -362,6 +362,7 @@
     <None Include="Assets\Adam Character Pack\PostProcessing\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
     <None Include="Assets\Adam Character Pack\PostProcessing\PostProcessing\Resources\Shaders\Uber.shader" />
     <None Include="Assets\Adam Character Pack\license.txt" />
+    <None Include="Assets\Boulders\Cinemachine\Shaders\SkyboxHDR.shader" />
     <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
     <None Include="Assets\Features\AtmosphericScattering\Code\AtmosphericScattering.cginc" />
     <None Include="Assets\Features\AtmosphericScattering\Code\AtmosphericScattering_Deferred.shader" />
@@ -371,7 +372,6 @@
     <None Include="Assets\Features\AtmosphericScattering\Shaders\StandardScatterSpecularSurface.shader" />
     <None Include="Assets\Features\AtmosphericScattering\Shaders\UnityPBSLighting.cginc" />
     <None Include="Assets\Features\AtmosphericScattering\Shaders\UnityStandardSurface.cginc" />
-    <None Include="Assets\Shaders\SkyboxHDR.shader" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
